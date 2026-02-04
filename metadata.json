@@ -1,0 +1,20 @@
+{
+  "name": "Steady Heart Diary2.0",
+  "short_name": "SteadyHeart",
+  "description": "A minimalist emotional sanctuary for grounding and reflection. Optimized for mobile installation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3031/3031267.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
